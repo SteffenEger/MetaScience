@@ -41,6 +41,7 @@ The seminar will be held in English.
    - [Predicting the Rise and Fall of Scientific Topics from Trends in their Rhetorical Framing](https://nlp.stanford.edu/pubs/prabhakaran2016rhetoricalroles.pdf)
    - [Grand challenges in altmetrics: heterogeneity, data quality and dependencies
 ](https://link.springer.com/article/10.1007/s11192-016-1910-9)
+   - [Citations, Citation Indicators, and Research Quality: An Overview of Basic Concepts and Theories](https://journals.sagepub.com/doi/full/10.1177/2158244019829575)
    
 
 
