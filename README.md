@@ -65,6 +65,7 @@ The seminar will be held in English.
    
 
 * Peer review
+   - [Reviewer bias in single- versus double-blind peer review](https://www.pnas.org/content/114/48/12708)
    - [On Testing for Biases in Peer Review](https://papers.nips.cc/paper/8770-on-testing-for-biases-in-peer-review.pdf)
    - [Does my rebuttal matter? Insights from a major nlp conference](https://www.aclweb.org/anthology/N19-1129.pdf)
    - [Arbitrariness in the peer review process](https://link.springer.com/article/10.1007/s11192-020-03348-1)
