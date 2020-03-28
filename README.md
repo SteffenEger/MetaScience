@@ -35,7 +35,7 @@ The seminar will be held in English.
 - [Science of Science](https://www.barabasilab.com/publications/science-of-science)
 - [Show Your Work: Improved Reporting of Experimental Results](https://arxiv.org/abs/1909.03004)
 - [Predicting the citations of scholarly paper](https://www.sciencedirect.com/science/article/pii/S1751157718301767)
-- [What is Ethics in Research & Why is it Important?] (https://www.veronaschools.org/cms/lib02/NJ01001379/Centricity/Domain/588/What%20is%20Ethics%20in%20Research%20Why%20is%20it%20Important.pdf)
+- [What is Ethics in Research & Why is it Important](https://www.veronaschools.org/cms/lib02/NJ01001379/Centricity/Domain/588/What%20is%20Ethics%20in%20Research%20Why%20is%20it%20Important.pdf)
 - [Meta-assessment of bias in science](https://www.ncbi.nlm.nih.gov/pubmed/?term=Meta-assessment+of+bias+in+science)
 - [Predatory journals recruit fake editor](https://www.nature.com/articles/543481a)
 - [The nearly universal link between the age of past knowledge and tomorrow’s breakthroughs in science and technology: The hotspot](https://advances.sciencemag.org/content/3/4/e1601315)
