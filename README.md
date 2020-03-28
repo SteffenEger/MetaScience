@@ -53,6 +53,7 @@ The seminar will be held in English.
    - [Predatory journals recruit fake editor](https://www.nature.com/articles/543481a)
    - [Self-citations as strategic response to the use of metrics for career decisions](https://www.sciencedirect.com/science/article/pii/S0370157317303289)
    - [Scientific misconduct: the dark side of science](https://link.springer.com/article/10.1007/s12210-015-0415-4)
+   - [Scientific Misconduct](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033437)
    
 
 * Peer review
