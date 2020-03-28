@@ -47,6 +47,7 @@ The seminar will be held in English.
    - [What is Ethics in Research & Why is it Important](https://www.veronaschools.org/cms/lib02/NJ01001379/Centricity/Domain/588/What%20is%20Ethics%20in%20Research%20Why%20is%20it%20Important.pdf)
    - [Meta-assessment of bias in science](https://www.ncbi.nlm.nih.gov/pubmed/?term=Meta-assessment+of+bias+in+science)
    - [Predatory journals recruit fake editor](https://www.nature.com/articles/543481a)
+   - [Self-citations as strategic response to the use of metrics for career decisions](https://www.sciencedirect.com/science/article/pii/S0370157317303289)
 
 * Peer review
    - [On Testing for Biases in Peer Review](https://papers.nips.cc/paper/8770-on-testing-for-biases-in-peer-review.pdf)
