@@ -65,6 +65,7 @@ The seminar will be held in English.
    
 
 * Peer review
+   - [Peer review: a flawed process at the heart of science and journals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/)
    - [Reviewer bias in single- versus double-blind peer review](https://www.pnas.org/content/114/48/12708)
    - [On Testing for Biases in Peer Review](https://papers.nips.cc/paper/8770-on-testing-for-biases-in-peer-review.pdf)
    - [Does my rebuttal matter? Insights from a major nlp conference](https://www.aclweb.org/anthology/N19-1129.pdf)
