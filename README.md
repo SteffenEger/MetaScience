@@ -31,5 +31,8 @@ The seminar will be held in English.
 - [On Good and Bad Intentions behind Anomalous Citation Patterns among Journals in Computer Sciences](https://arxiv.org/abs/1807.10804)
 - [Towards the discovery of citation cartels in citation networks](https://ui.adsabs.harvard.edu/abs/2016FrP.....4...49F/abstract)
 - [Predicting citation counts based on deep neural network learning techniques](https://arxiv.org/abs/1809.04365)
-- 
+- [Can Scientific Impact Be Predicted?](https://arxiv.org/pdf/1606.05905.pdf)
+- [Science of Science](https://www.barabasilab.com/publications/science-of-science)
+- [Show Your Work: Improved Reporting of Experimental Results](https://arxiv.org/abs/1909.03004)
+- [Predicting the citations of scholarly paper](https://www.sciencedirect.com/science/article/pii/S1751157718301767)
 
