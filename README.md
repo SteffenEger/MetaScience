@@ -42,6 +42,13 @@ The seminar will be held in English.
    - [Grand challenges in altmetrics: heterogeneity, data quality and dependencies
 ](https://link.springer.com/article/10.1007/s11192-016-1910-9)
    - [Citations, Citation Indicators, and Research Quality: An Overview of Basic Concepts and Theories](https://journals.sagepub.com/doi/full/10.1177/2158244019829575)
+   - [Citation Classification for Behavioral Analysis of a Scientific Field](https://arxiv.org/abs/1609.00435)
+   
+* Resources for science
+   - [Investigating the Role of Argumentation in the Rhetorical Analysis of Scientific Publications with Neural Multi-Task Learning Models](https://www.aclweb.org/anthology/D18-1370/)
+   - [ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks](https://arxiv.org/abs/1909.01716)
+   - [SciBERT: A Pretrained Language Model for Scientific Text](https://arxiv.org/abs/1903.10676)
+
    
 
 
