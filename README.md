@@ -54,6 +54,7 @@ The seminar will be held in English.
    - [Self-citations as strategic response to the use of metrics for career decisions](https://www.sciencedirect.com/science/article/pii/S0370157317303289)
    - [Scientific misconduct: the dark side of science](https://link.springer.com/article/10.1007/s12210-015-0415-4)
    - [Scientific Misconduct](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033437)
+   - [Over-Optimization of Academic Publishing Metrics: Observing Goodhart's Law in Action](https://academic.oup.com/gigascience/article/8/6/giz053/5506490)
    
 
 * Peer review
