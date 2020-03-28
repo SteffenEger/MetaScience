@@ -39,6 +39,10 @@ The seminar will be held in English.
    - [The nearly universal link between the age of past knowledge and tomorrow’s breakthroughs in science and technology: The hotspot](https://advances.sciencemag.org/content/3/4/e1601315)
    - [Predicting scientific success based on coauthorship networks](https://link.springer.com/article/10.1140/epjds/s13688-014-0009-x)
    - [Predicting the Rise and Fall of Scientific Topics from Trends in their Rhetorical Framing](https://nlp.stanford.edu/pubs/prabhakaran2016rhetoricalroles.pdf)
+   - [Grand challenges in altmetrics: heterogeneity, data quality and dependencies
+](https://link.springer.com/article/10.1007/s11192-016-1910-9)
+   - [Scientific misconduct: the dark side of science](https://link.springer.com/article/10.1007/s12210-015-0415-4)
+   
 
 
 * Biases and unethical behavior 
@@ -59,6 +63,7 @@ The seminar will be held in English.
    - [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](https://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf)
    - [Pitfalls of Graph Neural Network Evaluation](https://arxiv.org/abs/1811.05868)
    - [Probing Neural Network Comprehension of Natural Language Arguments](https://arxiv.org/abs/1907.07355)
+   - [Arbitrariness in the peer review process](https://link.springer.com/article/10.1007/s11192-020-03348-1)
 
 * Laws for technological progress
    - [Statistical Basis for Predicting Technological Progress](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0052669)
