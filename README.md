@@ -27,5 +27,9 @@ The seminar will be held in English.
 
 ### Literature
 
-- **Corpora & Annotation**
-   - Ronja Laarmann-Quante, Stefanie Dipper and Eva Belke (2019). The Making of the Litkey Corpus, a richly annotated longitudinal corpus of German texts written by primary school children. In Proceedings of the ACL Linguistic Annotation Workshop (LAW 13), pp. 43?55. Florence, Italy. Link
+- [The science of science: From the perspective of complex systems](https://www.sciencedirect.com/science/article/pii/S0370157317303289)
+- [On Good and Bad Intentions behind Anomalous Citation Patterns among Journals in Computer Sciences](https://arxiv.org/abs/1807.10804)
+- [Towards the discovery of citation cartels in citation networks](https://ui.adsabs.harvard.edu/abs/2016FrP.....4...49F/abstract)
+- [Predicting citation counts based on deep neural network learning techniques](https://arxiv.org/abs/1809.04365)
+- 
+
