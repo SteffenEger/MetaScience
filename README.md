@@ -31,7 +31,7 @@ The seminar will be held in English.
    - [The science of science: From the perspective of complex systems](https://www.sciencedirect.com/science/article/pii/S0370157317303289)
    - [Science of Science](https://www.barabasilab.com/publications/science-of-science)
  
-* Citation Count Prediction and Prediction of new trends 
+* Citations, Citation Count Prediction and Prediction of new trends 
    - [Prediction of highly cited papers](https://arxiv.org/abs/1310.8220)
    - [Predicting citation counts based on deep neural network learning techniques](https://arxiv.org/abs/1809.04365)
    - [Predicting the citations of scholarly paper](https://www.sciencedirect.com/science/article/pii/S1751157718301767)
