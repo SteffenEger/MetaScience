@@ -47,18 +47,17 @@ The seminar will be held in English.
    - [Predicting the Rise and Fall of Scientific Topics from Trends in their Rhetorical Framing](https://nlp.stanford.edu/pubs/prabhakaran2016rhetoricalroles.pdf)
    - [Predicting Research Trends with Semantic and Neural Networks with an application in Quantum Physics](https://arxiv.org/abs/1906.06843)
    
-* Resources for science
-   - [Investigating the Role of Argumentation in the Rhetorical Analysis of Scientific Publications with Neural Multi-Task Learning Models](https://www.aclweb.org/anthology/D18-1370/)
+* Resources and processing for scientific data
    - [ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks](https://arxiv.org/abs/1909.01716)
    - [SciBERT: A Pretrained Language Model for Scientific Text](https://arxiv.org/abs/1903.10676)
    - [The Computer Science Ontology: A Large-Scale
 Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
-   - 
+   - [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings]
 
 * Analysis
    - [Geographical trends in academic conferences: An analysis of authors’ affiliations](https://content.iospress.com/articles/data-science/ds190015)
    - [Forecasting the spreading of technologies in research communities](http://oro.open.ac.uk/51198/1/K-CAP2017_TTF_65.pdf)
-
+   - [Investigating the Role of Argumentation in the Rhetorical Analysis of Scientific Publications with Neural Multi-Task Learning Models](https://www.aclweb.org/anthology/D18-1370/)
 
 
 * Biases and unethical behavior 
