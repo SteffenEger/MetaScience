@@ -31,7 +31,13 @@ The seminar will be held in English.
    - [The science of science: From the perspective of complex systems](https://www.sciencedirect.com/science/article/pii/S0370157317303289)
    - [Science of Science](https://www.barabasilab.com/publications/science-of-science)
  
-* Citations, Citation Count Prediction and Prediction of new trends 
+* Citations and Altmetrics 
+   - [Grand challenges in altmetrics: heterogeneity, data quality and dependencies
+](https://link.springer.com/article/10.1007/s11192-016-1910-9)
+   - [Citations, Citation Indicators, and Research Quality: An Overview of Basic Concepts and Theories](https://journals.sagepub.com/doi/full/10.1177/2158244019829575)
+   - [Citation Classification for Behavioral Analysis of a Scientific Field](https://arxiv.org/abs/1609.00435)
+ 
+* Citation Count Prediction and Prediction of new trends 
    - [Prediction of highly cited papers](https://arxiv.org/abs/1310.8220)
    - [Predicting citation counts based on deep neural network learning techniques](https://arxiv.org/abs/1809.04365)
    - [Predicting the citations of scholarly paper](https://www.sciencedirect.com/science/article/pii/S1751157718301767)
@@ -39,17 +45,20 @@ The seminar will be held in English.
    - [The nearly universal link between the age of past knowledge and tomorrow’s breakthroughs in science and technology: The hotspot](https://advances.sciencemag.org/content/3/4/e1601315)
    - [Predicting scientific success based on coauthorship networks](https://link.springer.com/article/10.1140/epjds/s13688-014-0009-x)
    - [Predicting the Rise and Fall of Scientific Topics from Trends in their Rhetorical Framing](https://nlp.stanford.edu/pubs/prabhakaran2016rhetoricalroles.pdf)
-   - [Grand challenges in altmetrics: heterogeneity, data quality and dependencies
-](https://link.springer.com/article/10.1007/s11192-016-1910-9)
-   - [Citations, Citation Indicators, and Research Quality: An Overview of Basic Concepts and Theories](https://journals.sagepub.com/doi/full/10.1177/2158244019829575)
-   - [Citation Classification for Behavioral Analysis of a Scientific Field](https://arxiv.org/abs/1609.00435)
+   - [Predicting Research Trends with Semantic and Neural Networks with an application in Quantum Physics](https://arxiv.org/abs/1906.06843)
    
 * Resources for science
    - [Investigating the Role of Argumentation in the Rhetorical Analysis of Scientific Publications with Neural Multi-Task Learning Models](https://www.aclweb.org/anthology/D18-1370/)
    - [ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks](https://arxiv.org/abs/1909.01716)
    - [SciBERT: A Pretrained Language Model for Scientific Text](https://arxiv.org/abs/1903.10676)
+   - [The Computer Science Ontology: A Large-Scale
+Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
+   - 
 
-   
+* Analysis
+   - [Geographical trends in academic conferences: An analysis of authors’ affiliations](https://content.iospress.com/articles/data-science/ds190015)
+   - [Forecasting the spreading of technologies in research communities](http://oro.open.ac.uk/51198/1/K-CAP2017_TTF_65.pdf)
+
 
 
 * Biases and unethical behavior 
