@@ -52,7 +52,7 @@ The seminar will be held in English.
    - [SciBERT: A Pretrained Language Model for Scientific Text](https://arxiv.org/abs/1903.10676)
    - [The Computer Science Ontology: A Large-Scale
 Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
-   - [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings]
+   - [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings](https://arxiv.org/pdf/1910.08840.pdf)
 
 * Analysis
    - [Geographical trends in academic conferences: An analysis of authors’ affiliations](https://content.iospress.com/articles/data-science/ds190015)
