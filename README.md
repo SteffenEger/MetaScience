@@ -17,6 +17,9 @@ There will be 3 block meetings
 ### Language
 The seminar will be held in English.
 
+### Latest news
+Current information can be found on moodle: https://moodle.informatik.tu-darmstadt.de/course/view.php?id=914
+
 ### Course Plan
 
 |Session|Date|Topics|Presenter|
