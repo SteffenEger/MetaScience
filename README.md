@@ -24,7 +24,7 @@ Current information can be found on moodle: https://moodle.informatik.tu-darmsta
 
 |Session|Date|Topics|Presenter|
 |-|------|---------------------------|-------------|
-|1 | 24.04. | Kickoff ([Slides](https://docs.google.com/presentation/d/1PLVST0eoByOtG03TF4rctzm2fJlBEauqq-E5YDULh2s/edit?usp=sharing)) |  ||
+|1 | 24.04. | Kickoff ([Slides](https://docs.google.com/presentation/d/1PLVST0eoByOtG03TF4rctzm2fJlBEauqq-E5YDULh2s/edit?usp=sharing), [Slides in PDF](Meta-Science_2020.pdf)) |  ||
 |2 | 29.05. | ~[Session 1]()~ |  ||
 |3 | 26.06. | [Session 2]()  ||
 
