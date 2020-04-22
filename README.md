@@ -89,6 +89,7 @@ Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
    - 3 [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](https://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf)
    - 4 [Pitfalls of Graph Neural Network Evaluation](https://arxiv.org/abs/1811.05868)
    - 5 [Probing Neural Network Comprehension of Natural Language Arguments](https://arxiv.org/abs/1907.07355)
+   - 6 [Evaluating NLP Models via Contrast Sets](https://arxiv.org/abs/2004.02709)
 
 * Laws for technological progress
    - [Statistical Basis for Predicting Technological Progress](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0052669)
