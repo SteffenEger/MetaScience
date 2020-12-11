@@ -28,11 +28,11 @@ Current information can be found on moodle: https://moodle.informatik.tu-darmsta
 |2 | 29.05. | ~[Session 1]()~ |  ||
 |3 | 26.06. | [Session 2]()  ||
 
-### Best papers
+### Best term papers
 
 - Daniel Drodt, Katharina Wallrabenstein: [Unethical Behavior I](https://drive.google.com/file/d/1Pl_SMhGUmHCWnp3dt-MT8FbDP3ic1C9F/view?usp=sharing)
-- Miriam Schwab: [Scientific Misconduct](https://drive.google.com/file/d/1Pl_SMhGUmHCWnp3dt-MT8FbDP3ic1C9F/view?usp=sharing)
-- Maximilian Otte, Magdalena Wache: [Evaluation](https://drive.google.com/file/d/1Pl_SMhGUmHCWnp3dt-MT8FbDP3ic1C9F/view?usp=sharing)
+- Miriam Schwab: [Scientific Misconduct](https://drive.google.com/file/d/16v44OHDiAhaFv9DcgaLj5Ffo_Tqmg3Nn/view?usp=sharing)
+- Maximilian Otte, Magdalena Wache: [Evaluation](https://drive.google.com/file/d/1DDlfSZtmi7eCi8WHDTmhQSuqvIcE-Nsn/view?usp=sharing)
 
 
 ### Best talks
