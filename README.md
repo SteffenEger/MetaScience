@@ -3,7 +3,9 @@
 
 ### Content 
 
-This is a seminar series held each summer semester at [TU Darmstadt](https://www.tu-darmstadt.de/) discussing the analysis of scientific text using natural language processing (NLP) techniques, forecasting methods (e.g., for citation counts) as well as the proper evaluation of NLP/ML systems.
+This is a seminar series held each summer semester at 
+<!--[TU Darmstadt](https://www.tu-darmstadt.de/)--> 
+discussing the analysis of scientific text using natural language processing (NLP) techniques, forecasting methods (e.g., for citation counts) as well as the proper evaluation of NLP/ML systems.
 
 Based on the current revolution in deep learning, one of the questions we ask in the seminar is whether such revolutions can be predicted in advance. In addition, the seminar has a focus on the correct evaluation of models in NLP and Machine Learning since this is the basis for correct assessment of progress in science.
 
