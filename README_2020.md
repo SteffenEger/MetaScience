@@ -30,3 +30,6 @@ This year, there are two tracks:
        - We will offer 2-3 discussions with each group on the implementation and the write-up during the semester
 
 We will offer up to 5 slots for the regular track and up to 5 slots for the project track. For the project track, students are allowed to self-select into teams. 
+
+Topic for the project track can be found here: https://docs.google.com/document/d/15EBPnYrz20CEF1a72MzvC0rvgmNLl8iBM5rOPiBQ_p4/edit?usp=sharing
+
