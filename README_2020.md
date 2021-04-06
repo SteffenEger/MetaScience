@@ -24,7 +24,7 @@ This year, there are two tracks:
        - online group discussion (~10-20min); due around mid July
        - term paper (4-6 papers); due around mid September
   * **Project track**: 2-4 students jointly work on a project
-       - each student in the team reads 1-3 papers (relating to one topic)
+       - each student in the team reads 1-3 papers (relating to the project's topic)
        - the team works on a current project (typically involving coding), proposed by us
        - The team writes a paper (8-10 pages) on their project; due mid-late July
        - We will offer 2-3 discussions with each group on the implementation and the write-up during the semester
