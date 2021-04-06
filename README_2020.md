@@ -12,8 +12,8 @@ The seminar will be held in English.
 
 This year, two topics are of relevant:
 
-   1. Evaluation metrics and evaluation paradigms for Natural Language Processing
-   2. Science of science related topics such as citation count prediction, analysis of scientific literature, and biases
+   1. Evaluation metrics and evaluation paradigms (for Natural Language Processing)
+   2. Science of science related topics such as citation count prediction, analysis of scientific literature, and analysis of biases in science
 
 ### Seminar structure
 
