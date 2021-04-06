@@ -19,7 +19,7 @@ This year, two topics are of relevant:
 
 This year, there are two tracks:
 
-    * **Regular track**: one student presents 1-3 papers. Requirements:
+    * <b>Regular track</b>: one student presents 1-3 papers. Requirements:
          * offline video presentation (~20min) on the papers; due around late June
          * online group discussion (~10-20min); due around mid July
          * term paper (4-6 papers); due around mid September
