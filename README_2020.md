@@ -7,7 +7,7 @@ There will be 2-3 block meetings. The opening meeting will be via zoom on 20.04.
 
 ### Latest news
 
-See the [https://moodle.informatik.tu-darmstadt.de/course/view.php?id=1043](TU Moodle) for recent updates.
+See the (https://moodle.informatik.tu-darmstadt.de/course/view.php?id=1043)[TU Moodle] for recent updates.
 
 ### Language
 The seminar will be held in English.
