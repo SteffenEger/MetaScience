@@ -3,7 +3,11 @@
 The seminar will be held by [Steffen Eger](https://steffeneger.github.io/).
 
 ### Meetings
-There will be 2-3 block meetings.
+There will be 2-3 block meetings. The opening meeting will be via zoom on 20.04.2021 from 17 to 18.
+
+### Latest news
+
+See the [https://moodle.informatik.tu-darmstadt.de/course/view.php?id=1043](TU Moodle) for recent updates.
 
 ### Language
 The seminar will be held in English.
