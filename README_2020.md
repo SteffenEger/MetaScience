@@ -19,11 +19,11 @@ This year, two topics are of relevant:
 
 This year, there are two tracks:
 
-    * <b>Regular track</b>: one student presents 1-3 papers. Requirements:
+      * **Regular track**: one student presents 1-3 papers. Requirements:
          * offline video presentation (~20min) on the papers; due around late June
          * online group discussion (~10-20min); due around mid July
          * term paper (4-6 papers); due around mid September
-    * **Project track**: 2-4 students jointly work on a project
+      * **Project track**: 2-4 students jointly work on a project
          * each student reads 1-3 papers
          * students work on a current topic (typically involving coding), proposed by us
          * The students should write a paper (8-10 pages) on the topic; due mid-late July
