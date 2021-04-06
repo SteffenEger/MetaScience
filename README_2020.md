@@ -23,10 +23,10 @@ This year, there are two tracks:
        - offline video presentation (~20min) on the papers; due around late June
        - online group discussion (~10-20min); due around mid July
        - term paper (4-6 papers); due around mid September
-  * **Project track**: 2-4 students jointly work on a project
-       - each student in the team reads 1-3 papers (relating to the project's topic)
-       - the team works on a current project (typically involving coding), proposed by us
+  * **Project track**: 2-4 students jointly work on a project, proposed by us
+       - each student in the team reads 1-3 papers (relating to the project's topic), to understand the background
+       - the team works on a solution to the problem (this typically involving coding)
        - The team writes a paper (8-10 pages) on their project; due mid-late July
        - We will offer 2-3 discussions with each group on the implementation and the write-up during the semester
 
-
+We will offer up to 5 slots for the regular track and up to 5 slots for the project track. For the project track, students are allowed to self-select into teams. 
