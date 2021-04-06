@@ -7,7 +7,7 @@ There will be 2-3 block meetings. The opening meeting will be via zoom on 20.04.
 
 ### Latest news
 
-See the (https://moodle.informatik.tu-darmstadt.de/course/view.php?id=1043)[TU Moodle] for recent updates.
+See the [TU Moodle](https://moodle.informatik.tu-darmstadt.de/course/view.php?id=1043) for recent updates.
 
 ### Language
 The seminar will be held in English.
@@ -35,5 +35,5 @@ This year, there are two tracks:
 
 We will offer up to 5 slots for the regular track and up to 5 slots for the project track. For the project track, students are allowed to self-select into teams. 
 
-Topic for the project track can be found here: https://docs.google.com/document/d/15EBPnYrz20CEF1a72MzvC0rvgmNLl8iBM5rOPiBQ_p4/edit?usp=sharing
+Topics for the project track can be found here: [Project ideas](https://docs.google.com/document/d/15EBPnYrz20CEF1a72MzvC0rvgmNLl8iBM5rOPiBQ_p4/edit?usp=sharing)
 
