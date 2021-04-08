@@ -25,6 +25,7 @@ This year, there are two tracks:
 
   * **Regular track**: one student prepares 1-3 papers on one topic. Requirements:
        - offline video presentation (~20min) on the papers; due around late June
+       - write a small report on one other video presentation (one paragraph); due early July
        - online group discussion (~10-20min); due around mid July
        - term paper (4-6 pages); due around mid September
   * **Project track**: 2-4 students jointly work on a project, proposed by us
@@ -35,5 +36,5 @@ This year, there are two tracks:
 
 We will offer up to 5 slots for the regular track and up to 5 slots for the project track. For the project track, students are allowed to self-select into teams. 
 
-Topics for the project track can be found here: [Project ideas](https://docs.google.com/document/d/15EBPnYrz20CEF1a72MzvC0rvgmNLl8iBM5rOPiBQ_p4/edit?usp=sharing)
+Topics for the project track can be found here (continuously updated until April, 20): [Project ideas](https://docs.google.com/document/d/15EBPnYrz20CEF1a72MzvC0rvgmNLl8iBM5rOPiBQ_p4/edit?usp=sharing)
 
