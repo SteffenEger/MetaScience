@@ -63,7 +63,8 @@ Topics for the project track can be found here (continuously updated until April
    - 8 [Structural Scaffolds for Citation Intent Classification in Scientific Publications](https://arxiv.org/abs/1904.01608)
    - 9 [The use of citation context to detect the evolution of research topics: a large-scale analysis](https://link.springer.com/article/10.1007/s11192-020-03858-y)
    - 10 [Predicting the citation counts of individual papers via a BP neural network](https://www.sciencedirect.com/science/article/abs/pii/S1751157719303979)
-   
+   - 11 [A Neural Citation Count Prediction Modelbased on Peer Review Text](https://www.aclweb.org/anthology/D19-1497.pdf)
+
 * D: NLP for Scientific Text
    - 1 [ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks](https://arxiv.org/abs/1909.01716)
    - 2 [SciBERT: A Pretrained Language Model for Scientific Text](https://arxiv.org/abs/1903.10676)
@@ -94,3 +95,7 @@ Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
    - 4 [Pitfalls of Graph Neural Network Evaluation](https://arxiv.org/abs/1811.05868)
    - 5 [Probing Neural Network Comprehension of Natural Language Arguments](https://arxiv.org/abs/1907.07355)
    - 6 [Evaluating NLP Models via Contrast Sets](https://arxiv.org/abs/2004.02709)
+
+* H: Other
+   - 1 [Success and luck in creative careers](https://epjds.epj.org/articles/epjdata/abs/2020/01/13688_2020_Article_227/13688_2020_Article_227.html) 
+   - 2 [The coauthorship networks of the most productive European researchers](https://link.springer.com/article/10.1007/s11192-020-03746-5)
