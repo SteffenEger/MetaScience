@@ -68,10 +68,11 @@ Topics for the project track can be found here (continuously updated until April
    - 2 [SciBERT: A Pretrained Language Model for Scientific Text](https://arxiv.org/abs/1903.10676)
    - 3 [The Computer Science Ontology: A Large-Scale
 Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
-   - 4 [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings](https://arxiv.org/pdf/1910.08840.pdf)
-   - 5 [Does my rebuttal matter? Insights from a major nlp conference](https://www.aclweb.org/anthology/N19-1129.pdf)
-   - 6 [The Diversity–Innovation Paradox in Science](https://www.pnas.org/content/pnas/117/17/9284.full.pdf)
-   - 8 [Identification of Tasks, Datasets, Evaluation Metrics, and Numeric Scores for Scientific Leaderboards Construction](https://arxiv.org/abs/1906.09317)
+   - 4 [Does my rebuttal matter? Insights from a major nlp conference](https://www.aclweb.org/anthology/N19-1129.pdf)
+   - 5 [The Diversity–Innovation Paradox in Science](https://www.pnas.org/content/pnas/117/17/9284.full.pdf)
+   - 6 [Identification of Tasks, Datasets, Evaluation Metrics, and Numeric Scores for Scientific Leaderboards Construction](https://arxiv.org/abs/1906.09317)
+   - 7 [What Can We Do to Improve Peer Review in NLP?](https://arxiv.org/pdf/2010.03863.pdf)
+   - 8 [What Can We Do to Improve Peer Review in NLP?](https://arxiv.org/abs/2010.03863)
 
 * E: Biases and unethical behavior 
    - 1 [On Good and Bad Intentions behind Anomalous Citation Patterns among Journals in Computer Sciences](https://arxiv.org/abs/1807.10804)
