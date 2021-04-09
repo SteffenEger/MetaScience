@@ -53,12 +53,12 @@ Topics for the project track can be found here (continuously updated until April
  
 * C: Citation Count Prediction and Prediction of new trends  
    - 1 [Predicting citation counts based on deep neural network learning techniques](https://arxiv.org/abs/1809.04365)
-   - 2 [Predicting the citations of scholarly paper](https://www.sciencedirect.com/science/article/pii/S1751157718301767)
-   - 3 [Can Scientific Impact Be Predicted?](https://arxiv.org/pdf/1606.05905.pdf)
-   - 4 [The nearly universal link between the age of past knowledge and tomorrow’s breakthroughs in science and technology: The hotspot](https://advances.sciencemag.org/content/3/4/e1601315)
-   - 5 [Predicting scientific success based on coauthorship networks](https://link.springer.com/article/10.1140/epjds/s13688-014-0009-x)
-   - 6 [Predicting the Rise and Fall of Scientific Topics from Trends in their Rhetorical Framing](https://nlp.stanford.edu/pubs/prabhakaran2016rhetoricalroles.pdf)
-   - 7 [Predicting Research Trends with Semantic and Neural Networks with an application in Quantum Physics](https://arxiv.org/abs/1906.06843)
+   - 2 [Can Scientific Impact Be Predicted?](https://arxiv.org/pdf/1606.05905.pdf)
+   - 3 [The nearly universal link between the age of past knowledge and tomorrow’s breakthroughs in science and technology: The hotspot](https://advances.sciencemag.org/content/3/4/e1601315)
+   - 4 [Predicting scientific success based on coauthorship networks](https://link.springer.com/article/10.1140/epjds/s13688-014-0009-x)
+   - 5 [Predicting the Rise and Fall of Scientific Topics from Trends in their Rhetorical Framing](https://nlp.stanford.edu/pubs/prabhakaran2016rhetoricalroles.pdf)
+   - 6 [Predicting Research Trends with Semantic and Neural Networks with an application in Quantum Physics](https://arxiv.org/abs/1906.06843)
+   - 7 [Measuring the Evolution of a Scientific Field through Citation Frames](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00028/43437/Measuring-the-Evolution-of-a-Scientific-Field)
    
 * D: NLP for Scientific Text
    - 1 [ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks](https://arxiv.org/abs/1909.01716)
@@ -80,7 +80,7 @@ Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
    - 7 [Over-Optimization of Academic Publishing Metrics: Observing Goodhart's Law in Action](https://academic.oup.com/gigascience/article/8/6/giz053/5506490)
 
 * F: Evaluation and Evaluation Metrics
-   - more related work: see the googleDoc
+   - more related work, especially on evaluation metrics: see the googleDoc
    - 1 [Show Your Work: Improved Reporting of Experimental Results](https://arxiv.org/abs/1909.03004)
    - 2 [On the State of the Art of Evaluation in Neural Language Models](https://arxiv.org/abs/1707.05589)
    - 3 [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](https://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf)
