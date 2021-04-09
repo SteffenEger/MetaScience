@@ -50,6 +50,7 @@ Topics for the project track can be found here (continuously updated until April
 ](https://link.springer.com/article/10.1007/s11192-016-1910-9)
    - 2 [Citations, Citation Indicators, and Research Quality: An Overview of Basic Concepts and Theories](https://journals.sagepub.com/doi/full/10.1177/2158244019829575)
    - 3 [Citation Classification for Behavioral Analysis of a Scientific Field](https://arxiv.org/abs/1609.00435)
+   - 4 [Status drives how we cite: Evidence from thousands of authors](https://arxiv.org/ftp/arxiv/papers/2002/2002.10033.pdf)
  
 * C: Citation Count Prediction and Prediction of new trends  
    - 1 [Predicting citation counts based on deep neural network learning techniques](https://arxiv.org/abs/1809.04365)
@@ -60,6 +61,7 @@ Topics for the project track can be found here (continuously updated until April
    - 6 [Predicting Research Trends with Semantic and Neural Networks with an application in Quantum Physics](https://arxiv.org/abs/1906.06843)
    - 7 [Measuring the Evolution of a Scientific Field through Citation Frames](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00028/43437/Measuring-the-Evolution-of-a-Scientific-Field)
    - 8 [Structural Scaffolds for Citation Intent Classification in Scientific Publications](https://arxiv.org/abs/1904.01608)
+   - 9 [The use of citation context to detect the evolution of research topics: a large-scale analysis](https://link.springer.com/article/10.1007/s11192-020-03858-y)
    
 * D: NLP for Scientific Text
    - 1 [ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks](https://arxiv.org/abs/1909.01716)
