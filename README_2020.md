@@ -59,6 +59,7 @@ Topics for the project track can be found here (continuously updated until April
    - 5 [Predicting the Rise and Fall of Scientific Topics from Trends in their Rhetorical Framing](https://nlp.stanford.edu/pubs/prabhakaran2016rhetoricalroles.pdf)
    - 6 [Predicting Research Trends with Semantic and Neural Networks with an application in Quantum Physics](https://arxiv.org/abs/1906.06843)
    - 7 [Measuring the Evolution of a Scientific Field through Citation Frames](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00028/43437/Measuring-the-Evolution-of-a-Scientific-Field)
+   - 8 [Structural Scaffolds for Citation Intent Classification in Scientific Publications](https://arxiv.org/abs/1904.01608)
    
 * D: NLP for Scientific Text
    - 1 [ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks](https://arxiv.org/abs/1909.01716)
@@ -67,6 +68,8 @@ Topics for the project track can be found here (continuously updated until April
 Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
    - 4 [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings](https://arxiv.org/pdf/1910.08840.pdf)
    - 5 [Does my rebuttal matter? Insights from a major nlp conference](https://www.aclweb.org/anthology/N19-1129.pdf)
+   - 6 [The Diversity–Innovation Paradox in Science](https://www.pnas.org/content/pnas/117/17/9284.full.pdf)
+   - 8 [Identification of Tasks, Datasets, Evaluation Metrics, and Numeric Scores for Scientific Leaderboards Construction](https://arxiv.org/abs/1906.09317)
 
 * E: Biases and unethical behavior 
    - 1 [On Good and Bad Intentions behind Anomalous Citation Patterns among Journals in Computer Sciences](https://arxiv.org/abs/1807.10804)
