@@ -51,7 +51,8 @@ Topics for the project track can be found here (continuously updated until April
    - 2 [Citations, Citation Indicators, and Research Quality: An Overview of Basic Concepts and Theories](https://journals.sagepub.com/doi/full/10.1177/2158244019829575)
    - 3 [Citation Classification for Behavioral Analysis of a Scientific Field](https://arxiv.org/abs/1609.00435)
    - 4 [Status drives how we cite: Evidence from thousands of authors](https://arxiv.org/ftp/arxiv/papers/2002/2002.10033.pdf)
- 
+   - 5 [Structural Scaffolds for Citation Intent Classification in Scientific Publications](https://arxiv.org/abs/1904.01608)
+
 * C: Citation Count Prediction and Prediction of new trends  
    - 1 [Predicting citation counts based on deep neural network learning techniques](https://arxiv.org/abs/1809.04365)
    - 2 [Can Scientific Impact Be Predicted?](https://arxiv.org/pdf/1606.05905.pdf)
@@ -60,7 +61,6 @@ Topics for the project track can be found here (continuously updated until April
    - 5 [Predicting the Rise and Fall of Scientific Topics from Trends in their Rhetorical Framing](https://nlp.stanford.edu/pubs/prabhakaran2016rhetoricalroles.pdf)
    - 6 [Predicting Research Trends with Semantic and Neural Networks with an application in Quantum Physics](https://arxiv.org/abs/1906.06843)
    - 7 [Measuring the Evolution of a Scientific Field through Citation Frames](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00028/43437/Measuring-the-Evolution-of-a-Scientific-Field)
-   - 8 [Structural Scaffolds for Citation Intent Classification in Scientific Publications](https://arxiv.org/abs/1904.01608)
    - 9 [The use of citation context to detect the evolution of research topics: a large-scale analysis](https://link.springer.com/article/10.1007/s11192-020-03858-y)
    - 10 [Predicting the citation counts of individual papers via a BP neural network](https://www.sciencedirect.com/science/article/abs/pii/S1751157719303979)
    - 11 [A Neural Citation Count Prediction Modelbased on Peer Review Text](https://www.aclweb.org/anthology/D19-1497.pdf)
@@ -71,10 +71,9 @@ Topics for the project track can be found here (continuously updated until April
    - 3 [The Computer Science Ontology: A Large-Scale
 Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
    - 4 [Does my rebuttal matter? Insights from a major nlp conference](https://www.aclweb.org/anthology/N19-1129.pdf)
-   - 5 [The Diversity–Innovation Paradox in Science](https://www.pnas.org/content/pnas/117/17/9284.full.pdf)
    - 6 [Identification of Tasks, Datasets, Evaluation Metrics, and Numeric Scores for Scientific Leaderboards Construction](https://arxiv.org/abs/1906.09317)
    - 7 [What Can We Do to Improve Peer Review in NLP?](https://arxiv.org/pdf/2010.03863.pdf)
-   - 8 [What Can We Do to Improve Peer Review in NLP?](https://arxiv.org/abs/2010.03863)
+   - 8 [Can We Automate Scientific Reviewing?](https://arxiv.org/abs/2102.00176)
 
 * E: Biases and unethical behavior 
    - 1 [On Good and Bad Intentions behind Anomalous Citation Patterns among Journals in Computer Sciences](https://arxiv.org/abs/1807.10804)
@@ -99,3 +98,4 @@ Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
 * H: Other
    - 1 [Success and luck in creative careers](https://epjds.epj.org/articles/epjdata/abs/2020/01/13688_2020_Article_227/13688_2020_Article_227.html) 
    - 2 [The coauthorship networks of the most productive European researchers](https://link.springer.com/article/10.1007/s11192-020-03746-5)
+   - 3 [The Diversity–Innovation Paradox in Science](https://www.pnas.org/content/pnas/117/17/9284.full.pdf)
