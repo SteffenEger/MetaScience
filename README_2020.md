@@ -38,3 +38,60 @@ We will offer up to 5 slots for the regular track and up to 5 slots for the proj
 
 Topics for the project track can be found here (continuously updated until April, 20): [Project ideas](https://docs.google.com/document/d/15EBPnYrz20CEF1a72MzvC0rvgmNLl8iBM5rOPiBQ_p4/edit?usp=sharing)
 
+
+### Literature
+
+* A: Overview articles
+   - 1 [Science of Science](https://www.barabasilab.com/publications/science-of-science)
+   - 2 [The science of science: From the perspective of complex systems](https://www.sciencedirect.com/science/article/pii/S0370157317303289) 
+ 
+* B: Citations and Altmetrics 
+   - 1 [Grand challenges in altmetrics: heterogeneity, data quality and dependencies
+](https://link.springer.com/article/10.1007/s11192-016-1910-9)
+   - 2 [Citations, Citation Indicators, and Research Quality: An Overview of Basic Concepts and Theories](https://journals.sagepub.com/doi/full/10.1177/2158244019829575)
+   - 3 [Citation Classification for Behavioral Analysis of a Scientific Field](https://arxiv.org/abs/1609.00435)
+ 
+* C: Citation Count Prediction and Prediction of new trends  
+   - 1 [Prediction of highly cited papers](https://arxiv.org/abs/1310.8220)
+   - 2 [Predicting citation counts based on deep neural network learning techniques](https://arxiv.org/abs/1809.04365)
+   - 3 [Predicting the citations of scholarly paper](https://www.sciencedirect.com/science/article/pii/S1751157718301767)
+   - 4 [Can Scientific Impact Be Predicted?](https://arxiv.org/pdf/1606.05905.pdf)
+   - 5 [The nearly universal link between the age of past knowledge and tomorrow’s breakthroughs in science and technology: The hotspot](https://advances.sciencemag.org/content/3/4/e1601315)
+   - 6 [Predicting scientific success based on coauthorship networks](https://link.springer.com/article/10.1140/epjds/s13688-014-0009-x)
+   - 7 [Predicting the Rise and Fall of Scientific Topics from Trends in their Rhetorical Framing](https://nlp.stanford.edu/pubs/prabhakaran2016rhetoricalroles.pdf)
+   - 8 [Predicting Research Trends with Semantic and Neural Networks with an application in Quantum Physics](https://arxiv.org/abs/1906.06843)
+   
+* D: Resources and processing for scientific data
+   - 1 [ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks](https://arxiv.org/abs/1909.01716)
+   - 2 [SciBERT: A Pretrained Language Model for Scientific Text](https://arxiv.org/abs/1903.10676)
+   - 3 [The Computer Science Ontology: A Large-Scale
+Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
+   - 4 [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings](https://arxiv.org/pdf/1910.08840.pdf)
+
+* F: Biases and unethical behavior 
+   - 1 [On Good and Bad Intentions behind Anomalous Citation Patterns among Journals in Computer Sciences](https://arxiv.org/abs/1807.10804)
+   - 2 [Towards the discovery of citation cartels in citation networks](https://ui.adsabs.harvard.edu/abs/2016FrP.....4...49F/abstract)
+   - (Opinion Article) [What is Ethics in Research & Why is it Important](https://www.veronaschools.org/cms/lib02/NJ01001379/Centricity/Domain/588/What%20is%20Ethics%20in%20Research%20Why%20is%20it%20Important.pdf)
+   - 3 [Meta-assessment of bias in science](https://www.ncbi.nlm.nih.gov/pubmed/?term=Meta-assessment+of+bias+in+science)
+   - (Opinion Article) [Predatory journals recruit fake editor](https://www.nature.com/articles/543481a)
+   - 4 [Self-citations as strategic response to the use of metrics for career decisions](https://www.sciencedirect.com/science/article/abs/pii/S004873331730210X)
+   - 5 [Scientific misconduct: the dark side of science](https://link.springer.com/article/10.1007/s12210-015-0415-4)
+   - 6 [Scientific Misconduct](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033437)
+   - 7 [Over-Optimization of Academic Publishing Metrics: Observing Goodhart's Law in Action](https://academic.oup.com/gigascience/article/8/6/giz053/5506490)
+   
+
+* G: Peer review
+   - 1 [Peer review: a flawed process at the heart of science and journals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/)
+   - 2 [Reviewer bias in single- versus double-blind peer review](https://www.pnas.org/content/114/48/12708)
+   - 3 [On Testing for Biases in Peer Review](https://papers.nips.cc/paper/8770-on-testing-for-biases-in-peer-review.pdf)
+   - 4 [Does my rebuttal matter? Insights from a major nlp conference](https://www.aclweb.org/anthology/N19-1129.pdf)
+   - 5 [Arbitrariness in the peer review process](https://link.springer.com/article/10.1007/s11192-020-03348-1)
+
+
+* H: Evaluation and Evaluation Metrics
+   - 1 [Show Your Work: Improved Reporting of Experimental Results](https://arxiv.org/abs/1909.03004)
+   - 2 [On the State of the Art of Evaluation in Neural Language Models](https://arxiv.org/abs/1707.05589)
+   - 3 [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](https://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf)
+   - 4 [Pitfalls of Graph Neural Network Evaluation](https://arxiv.org/abs/1811.05868)
+   - 5 [Probing Neural Network Comprehension of Natural Language Arguments](https://arxiv.org/abs/1907.07355)
+   - 6 [Evaluating NLP Models via Contrast Sets](https://arxiv.org/abs/2004.02709)
