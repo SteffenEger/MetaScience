@@ -66,8 +66,9 @@ Topics for the project track can be found here (continuously updated until April
    - 3 [The Computer Science Ontology: A Large-Scale
 Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
    - 4 [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings](https://arxiv.org/pdf/1910.08840.pdf)
+   - 5 [Does my rebuttal matter? Insights from a major nlp conference](https://www.aclweb.org/anthology/N19-1129.pdf)
 
-* F: Biases and unethical behavior 
+* E: Biases and unethical behavior 
    - 1 [On Good and Bad Intentions behind Anomalous Citation Patterns among Journals in Computer Sciences](https://arxiv.org/abs/1807.10804)
    - 2 [Towards the discovery of citation cartels in citation networks](https://ui.adsabs.harvard.edu/abs/2016FrP.....4...49F/abstract)
    - (Opinion Article) [What is Ethics in Research & Why is it Important](https://www.veronaschools.org/cms/lib02/NJ01001379/Centricity/Domain/588/What%20is%20Ethics%20in%20Research%20Why%20is%20it%20Important.pdf)
@@ -77,17 +78,8 @@ Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
    - 5 [Scientific misconduct: the dark side of science](https://link.springer.com/article/10.1007/s12210-015-0415-4)
    - 6 [Scientific Misconduct](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033437)
    - 7 [Over-Optimization of Academic Publishing Metrics: Observing Goodhart's Law in Action](https://academic.oup.com/gigascience/article/8/6/giz053/5506490)
-   
 
-* G: Peer review
-   - 1 [Peer review: a flawed process at the heart of science and journals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/)
-   - 2 [Reviewer bias in single- versus double-blind peer review](https://www.pnas.org/content/114/48/12708)
-   - 3 [On Testing for Biases in Peer Review](https://papers.nips.cc/paper/8770-on-testing-for-biases-in-peer-review.pdf)
-   - 4 [Does my rebuttal matter? Insights from a major nlp conference](https://www.aclweb.org/anthology/N19-1129.pdf)
-   - 5 [Arbitrariness in the peer review process](https://link.springer.com/article/10.1007/s11192-020-03348-1)
-
-
-* H: Evaluation and Evaluation Metrics
+* F: Evaluation and Evaluation Metrics
    - more related work: see the googleDoc
    - 1 [Show Your Work: Improved Reporting of Experimental Results](https://arxiv.org/abs/1909.03004)
    - 2 [On the State of the Art of Evaluation in Neural Language Models](https://arxiv.org/abs/1707.05589)
