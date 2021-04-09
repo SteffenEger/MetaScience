@@ -86,7 +86,7 @@ Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
    - 6 [Scientific Misconduct](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033437)
    - 7 [Over-Optimization of Academic Publishing Metrics: Observing Goodhart's Law in Action](https://academic.oup.com/gigascience/article/8/6/giz053/5506490)
 
-* F: Evaluation and Evaluation Metrics
+* F1: Evaluation Pitfalls
    - more related work, especially on evaluation metrics: see the googleDoc
    - 1 [Show Your Work: Improved Reporting of Experimental Results](https://arxiv.org/abs/1909.03004)
    - 2 [On the State of the Art of Evaluation in Neural Language Models](https://arxiv.org/abs/1707.05589)
@@ -94,6 +94,32 @@ Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
    - 4 [Pitfalls of Graph Neural Network Evaluation](https://arxiv.org/abs/1811.05868)
    - 5 [Probing Neural Network Comprehension of Natural Language Arguments](https://arxiv.org/abs/1907.07355)
    - 6 [Evaluating NLP Models via Contrast Sets](https://arxiv.org/abs/2004.02709)
+
+* F2: Evaluation
+   - 1 Assessing Reference-Free Peer Evaluation for Machine Translation
+   - 2 Robustness Gym: Unifying the NLP Evaluation Landscape
+   - 3 SentSim: Crosslingual Semantic Evaluation of Machine Translation
+   - 4 Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics
+   - 5 Statistical Power and Translationese in Machine Translation Evaluation
+   - 6 COMET: A Neural Framework for MT Evaluation.
+   - 7 Automatic Machine Translation Evaluation in Many Languages via Zero-Shot Paraphrasing
+   - 8 Unsupervised Reference-Free Summary Quality Evaluation via Contrastive Learning
+   - 9 Re-evaluating Evaluation in Text Summarization
+   - 10 Evaluating and Enhancing the Robustness of Neural Network-based Dependency Parsing Models with Adversarial Examples
+   - 11 Evaluating Explanation Methods for Neural Machine Translation
+   - 12 Facet-Aware Evaluation for Extractive Summarization
+   - 13 FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization
+   - 14 GLUECoS: An Evaluation Benchmark for Code-Switched NLP
+   - 15 Multi-Hypothesis Machine Translation Evaluation
+   - 16 On The Evaluation of Machine Translation SystemsTrained With Back-Translation
+   - 17 On the Limitations of Cross-lingual Encoders as Exposed by Reference-Free Machine Translation Evaluation
+   - 18 Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics
+   - 19 Automatic Machine Translation Evaluation using Source Language Inputs and Cross-lingual Language Model
+   - 20 SUPERT: Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization
+   - 21 CLIReval: Evaluating Machine Translation as a Cross-Lingual Information Retrieval Task
+   - 22 BLEURT: Learning Robust Metrics for Text Generation
+   - 23 bleu might be guilty but references are not innocent
+
 
 * H: Other
    - 1 [Success and luck in creative careers](https://epjds.epj.org/articles/epjdata/abs/2020/01/13688_2020_Article_227/13688_2020_Article_227.html) 
