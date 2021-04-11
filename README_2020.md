@@ -100,21 +100,21 @@ Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
    - 2 Robustness Gym: Unifying the NLP Evaluation Landscape
    - 3 SentSim: Crosslingual Semantic Evaluation of Machine Translation
    - 4 Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics
-   - 5 Statistical Power and Translationese in Machine Translation Evaluation
-   - 6 COMET: A Neural Framework for MT Evaluation.
-   - 7 Automatic Machine Translation Evaluation in Many Languages via Zero-Shot Paraphrasing
+   - 5 [Statistical Power and Translationese in Machine Translation Evaluation](https://www.aclweb.org/anthology/2020.emnlp-main.6/)
+   - 6 [COMET: A Neural Framework for MT Evaluation](https://www.aclweb.org/anthology/2020.emnlp-main.213.pdf)
+   - 7 [Automatic Machine Translation Evaluation in Many Languages via Zero-Shot Paraphrasing](https://arxiv.org/pdf/2004.14564.pdf)
    - 8 Unsupervised Reference-Free Summary Quality Evaluation via Contrastive Learning
    - 9 Re-evaluating Evaluation in Text Summarization
    - 10 Evaluating and Enhancing the Robustness of Neural Network-based Dependency Parsing Models with Adversarial Examples
-   - 11 Evaluating Explanation Methods for Neural Machine Translation
+   - 11 [Evaluating Explanation Methods for Neural Machine Translation](https://arxiv.org/abs/2005.01672)
    - 12 Facet-Aware Evaluation for Extractive Summarization
    - 13 FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization
    - 14 GLUECoS: An Evaluation Benchmark for Code-Switched NLP
    - 15 Multi-Hypothesis Machine Translation Evaluation
-   - 16 On The Evaluation of Machine Translation SystemsTrained With Back-Translation
+   - 16 On The Evaluation of Machine Translation Systems Trained With Back-Translation
    - 17 On the Limitations of Cross-lingual Encoders as Exposed by Reference-Free Machine Translation Evaluation
    - 18 Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics
-   - 19 Automatic Machine Translation Evaluation using Source Language Inputs and Cross-lingual Language Model
+   - 19 [Automatic Machine Translation Evaluation using Source Language Inputs and Cross-lingual Language Model](https://www.aclweb.org/anthology/2020.acl-main.327/)
    - 20 SUPERT: Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization
    - 21 CLIReval: Evaluating Machine Translation as a Cross-Lingual Information Retrieval Task
    - 22 BLEURT: Learning Robust Metrics for Text Generation
