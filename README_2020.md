@@ -61,10 +61,10 @@ Topics for the project track can be found here (continuously updated until April
    - 5 [Predicting the Rise and Fall of Scientific Topics from Trends in their Rhetorical Framing](https://nlp.stanford.edu/pubs/prabhakaran2016rhetoricalroles.pdf)
    - 6 [Predicting Research Trends with Semantic and Neural Networks with an application in Quantum Physics](https://arxiv.org/abs/1906.06843)
    - 7 [Measuring the Evolution of a Scientific Field through Citation Frames](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00028/43437/Measuring-the-Evolution-of-a-Scientific-Field)
-   - 9 [The use of citation context to detect the evolution of research topics: a large-scale analysis](https://link.springer.com/article/10.1007/s11192-020-03858-y)
-   - 10 [Predicting the citation counts of individual papers via a BP neural network](https://www.sciencedirect.com/science/article/abs/pii/S1751157719303979)
-   - 11 [A Neural Citation Count Prediction Modelbased on Peer Review Text](https://www.aclweb.org/anthology/D19-1497.pdf)
-   - 12 [ TRENDNERT: A Benchmark for Trend and Downtrend Detection in a Scientific Domain ](https://ojs.aaai.org/index.php/AAAI/article/view/6372)
+   - 8 [The use of citation context to detect the evolution of research topics: a large-scale analysis](https://link.springer.com/article/10.1007/s11192-020-03858-y)
+   - 9 [Predicting the citation counts of individual papers via a BP neural network](https://www.sciencedirect.com/science/article/abs/pii/S1751157719303979)
+   - 10 [A Neural Citation Count Prediction Modelbased on Peer Review Text](https://www.aclweb.org/anthology/D19-1497.pdf)
+   - 11 [ TRENDNERT: A Benchmark for Trend and Downtrend Detection in a Scientific Domain ](https://ojs.aaai.org/index.php/AAAI/article/view/6372)
 
 * D: NLP for Scientific Text
    - 1 [ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks](https://arxiv.org/abs/1909.01716)
