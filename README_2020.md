@@ -36,8 +36,7 @@ This year, there are two tracks:
 
 We will offer up to 5 slots for the regular track and up to 5 slots for the project track. For the project track, students are allowed to self-select into teams. 
 
-Topics for the project track can be found here (continuously updated until April, 20): [Project ideas](https://docs.google.com/document/d/15EBPnYrz20CEF1a72MzvC0rvgmNLl8iBM5rOPiBQ_p4/edit?usp=sharing)
-
+Topics for the project track can be found here (continuously updated until April, 20): see the moodle.
 
 ### Literature
 
