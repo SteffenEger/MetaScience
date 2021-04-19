@@ -86,6 +86,9 @@ Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
    - 5 [Scientific misconduct: the dark side of science](https://link.springer.com/article/10.1007/s12210-015-0415-4)
    - 6 [Scientific Misconduct](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033437)
    - 7 [Over-Optimization of Academic Publishing Metrics: Observing Goodhart's Law in Action](https://academic.oup.com/gigascience/article/8/6/giz053/5506490)
+   - 8 [ How much is too much? The difference between research influence and self-citation excess ](https://link.springer.com/article/10.1007/s11192-020-03417-5)
+   - 9 [Misinformation in and about science](https://www.pnas.org/content/118/15/e1912444117.short)
+   - 10 [Digital magic, or the dark arts of the 21st century—how can journals and peer reviewers detect manuscripts and publications from paper mills? ](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.13747)
 
 * F1: Evaluation Pitfalls
    - more related work, especially on evaluation metrics: see the googleDoc
@@ -122,6 +125,7 @@ Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
    - 21 CLIReval: Evaluating Machine Translation as a Cross-Lingual Information Retrieval Task
    - 22 BLEURT: Learning Robust Metrics for Text Generation
    - 23 bleu might be guilty but references are not innocent
+   - 24 [Unsupervised quality estimation for neural machine translation](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00330/96475/Unsupervised-Quality-Estimation-for-Neural-Machine)
 
 
 * H: Other
