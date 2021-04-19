@@ -95,6 +95,8 @@ Taxonomy of Research Areas](http://oro.open.ac.uk/55484/14/55484.pdf)
    - 4 [Pitfalls of Graph Neural Network Evaluation](https://arxiv.org/abs/1811.05868)
    - 5 [Probing Neural Network Comprehension of Natural Language Arguments](https://arxiv.org/abs/1907.07355)
    - 6 [Evaluating NLP Models via Contrast Sets](https://arxiv.org/abs/2004.02709)
+   - 7 [A call for more rigor in unsupervised cross-lingual learning](https://arxiv.org/abs/2004.14958)
+   - 8 [Towards Debiasing NLU Models from Unknown Biases](https://arxiv.org/abs/2009.12303)
 
 * F2: Evaluation
    - 1 Assessing Reference-Free Peer Evaluation for Machine Translation
